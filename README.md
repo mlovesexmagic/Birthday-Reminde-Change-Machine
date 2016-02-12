@@ -10,15 +10,15 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Allow user to initial time in the hours and minutes
-- [x] A loop allow user repeatedly to enter additional minutes to advance the clock.
-- [x] Displays new time after the clock has been advanced.
+- [x] Asks a user for their name and birthday prints it out
+- [x] A loop allow user repeatedly ask play the the game.
+- [x] Count and catagories appropriate amount of bills and coins of each denomination.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='#' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/WZn5cp5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
